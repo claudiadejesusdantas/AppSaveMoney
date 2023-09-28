@@ -1,6 +1,7 @@
-## Desenvolvimento da funções da tela principal
+## Desenvolvimento da funções de hora, data e categoria no <spam style="color:red">botão despesa</spam>
 ![Tela Principal](image.png)
 
+Nessa parte desenvolvemos os ajustes de hora, data e categoria no btn_despesa.
 
 
 ### Os componentes incluídos e modificados:
