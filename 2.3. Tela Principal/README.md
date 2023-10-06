@@ -77,3 +77,5 @@ E para mostrar o que é despesa e o que é receita nesse primeiro momento inseri
 
 No final dessa parte o programa ficou assim:
 ![Alt text](image-12.png)
+
+
